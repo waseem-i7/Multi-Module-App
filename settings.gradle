@@ -1,0 +1,5 @@
+include ':app-admin'
+include ':happytoast'
+include ':string-formatter'
+include ':app'
+rootProject.name = "MultiModule Showcase"
